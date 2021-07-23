@@ -20,19 +20,19 @@ py -3 -m pip install -U selenium chromedriver_binary
 
 # Usage
 ## Normal (Auto)
-`python3 run_speedtest.py`
+`python3 risupu-speedtest-cli.py`
 
 ## Show the list of measure servers
-`python3 run_speedtest.py --list`
+`python3 risupu-speedtest-cli.py --list`
 
 ## Select server manually
-`python3 run_speedtest.py --server-id SERVER_ID`
+`python3 risupu-speedtest-cli.py --server-id SERVER_ID`
 
 ## Save result image
-`python3 run_speedtest.py --save-image`
+`python3 risupu-speedtest-cli.py --save-image`
 
 ## Hide ISP Information
-`python3 run_speedtest.py --hide-isp`
+`python3 risupu-speedtest-cli.py --hide-isp`
 
 # Troubleshooting
 ## Version mismatch
