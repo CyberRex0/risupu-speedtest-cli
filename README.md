@@ -54,3 +54,8 @@ ERROR: Chrome is not installed.
 ```
 
 To fix this error, please install Chrome.
+
+# About
+Speedtest servers by RisuPu
+
+(C)2021 rspnet.jp, CyberRex
