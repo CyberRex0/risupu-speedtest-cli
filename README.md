@@ -18,6 +18,22 @@ Install these modules on Windows:
 py -3 -m pip install -U selenium chromedriver_binary
 ```
 
+# Usage
+## Normal (Auto)
+`python3 run_speedtest.py`
+
+## Show the list of measure servers
+`python3 run_speedtest.py --list`
+
+## Select server manually
+`python3 run_speedtest.py --server-id SERVER_ID`
+
+## Save result image
+`python3 run_speedtest.py --save-image`
+
+## Hide ISP Information
+`python3 run_speedtest.py --hide-isp`
+
 # Troubleshooting
 ## Version mismatch
 ```
