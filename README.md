@@ -58,4 +58,6 @@ To fix this error, please install Chrome.
 # About
 Speedtest servers by RisuPu
 
+✅ *Offical Software*
+
 (C)2021 rspnet.jp, CyberRex
